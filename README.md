@@ -107,11 +107,11 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 <br>
 
 ## Diagrama de Classe
-![](imagens\diagramas\diagrama_classe.jpg)
+![](imagens/diagramas/diagrama_classe.jpg)
 <br>
 
 ## Caso de Uso
-![](imagens\diagramas\diagrama_use_case.jpeg)
+![](imagens/diagramas/diagrama_use_case.jpeg)
 <br>
 
 ## Autores

@@ -1,4 +1,4 @@
-# <h1> PROJETO PARA CADASTROS DA UNIVERSIDADE PROGRESSO </h1>
+# <h1> PROJETO PARA CADASTROS DO SISTEMA GESTOR DA UNIVERSIDADE PROGRESSO </h1>
 
 <br><br>
 
@@ -9,21 +9,21 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 ## Índice
 
-- <a href =“#cadastro-de-pessoa-física”>Cadastro de Pessoa Física</a>
-- <a href =“#cadastro-de-pessoa-jurídica”>Cadastro de Pessoa Jurídica</a>
-- <a href =“#cadastro-de--professores”>Cadastro de Professores</a>
-- <a href =“#cadastro-de-fornecedores”>Cadastro de Fornecedores</a>
-- <a href =“#cadastro-de-aluno”>Cadastro de Aluno</a>
-- <a href =“#cadastro-de-funcionário-terceirizado”>Cadastro de Funcionário Terceirizado</a>
-- <a href =“#cadastro-de-visitante”>Cadastro de Visitante</a>
-- <a href =“#prototipos”>Prototipos</a>
-- <a href =“#diagrama-de-classe”>Diagrama de Classe</a>
-- <a href =“#caso-de-uso”>Caso de Uso</a>
-- <a href =“#autores”>Autores</a>
+- <a href ="#cadastro-de-pessoa-física">Cadastro de Pessoa Física </a>
+- <a href ="#cadastro-de-pessoa-jurídica">Cadastro de Pessoa Jurídica</a>
+- <a href ="#cadastro-de-professores">Cadastro de Professores</a>
+- <a href ="#cadastro-de-fornecedores">Cadastro de Fornecedores</a>
+- <a href ="#cadastro-de-aluno">Cadastro de Aluno</a>
+- <a href ="#cadastro-de-funcionário-terceirizado">Cadastro de Funcionário Terceirizado</a>
+- <a href ="#cadastro-de-visitante">Cadastro de Visitante</a>
+- <a href ="#prototipos">Prototipos</a>
+- <a href ="#diagrama-de-classe">Diagrama de Classe</a>
+- <a href ="#caso-de-uso">Caso de Uso</a>
+- <a href ="#autores">Autores</a>
 
 <br>
 
-## Pessoa Física:
+## Cadastro de Pessoa Física 
 - nome;
 - rg;
 -  cpf;
@@ -34,7 +34,7 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 <br>
 
-## Pessoa Jurídica:
+## Cadastro de Pessoa Jurídica
 - razão social;
 -  cnpj;
 -  telefone;
@@ -44,7 +44,7 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 <br>
 
-## Professores:
+## Cadastro de Professores 
 - nome;
 - rg;
 -  cpf;
@@ -56,7 +56,7 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 <br>
 
-## Fornecedores:
+## Cadastro de Fornecedores
 - razão social;
 -  cnpj;
 -  telefone;
@@ -66,7 +66,7 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 <br>
 
-## Aluno
+## Cadastro de Aluno
 - nome;
 -  rg;
 -  cpf;
@@ -80,7 +80,7 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 <br>
 
-## Funcionário Terceirizado
+## Cadastro de Funcionário Terceirizado
 - nome;
 - rg;
 -  cpf;
@@ -92,7 +92,7 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 <br>
 
-## Visitante:
+## Cadastro de Visitante
 - nome;
 - rg;
 -  cpf;
@@ -102,16 +102,16 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 -  motivo da visita.
 <br>
 
-## Protipação (IMAGENS)
+## Prototipos
 
 <br>
 
 ## Diagrama de Classe
-
+![](imagens\diagramas\diagrama_classe.jpg)
 <br>
 
-## CASO DE USO (IMAGEM)
-
+## Caso de Uso
+![](imagens\diagramas\diagrama_use_case.jpeg)
 <br>
 
 ## Autores

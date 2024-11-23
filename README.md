@@ -104,6 +104,36 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 ## Prototipos
 
+![](imagens/prototipo/PROTOTIPO1.2.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.3.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.4.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.5.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.6.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.7.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.8.png)
+
+<br>
+
+![](imagens/prototipo/PROTOTIPO1.9.png)
+
 <br>
 
 ## Diagrama de Classe
@@ -112,7 +142,10 @@ Este projeto visa a modelagem de um sistema orientado a objetos para a gestão d
 
 ## Caso de Uso
 ![](imagens/diagramas/diagrama_use_case.jpeg)
+
+
 <br>
+
 
 ## Autores
 <a href = "https://github.com/Amandakasilva"> Amanda Silva </a> <br>
